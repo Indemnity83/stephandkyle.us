@@ -1,0 +1,14 @@
+{
+  "kyle": {
+    "slug": "kyle",
+    "name": "Kyle",
+    "bio": "Kyle is an incessant tinkerer, always working on projects and exploring new technologies. When he's not in the workshop or behind the computer, he’s enjoying time with his family or traveling.",
+    "image": "images/kyle.jpg"
+  },
+  "steph": {
+    "slug": "steph",
+    "name": "Steph",
+    "bio": "Steph loves arts and crafts, finding joy in creating new things with her hands. Whether it’s painting, knitting, or DIY projects, she’s always finding creative outlets. She also loves spending time with her family and exploring new places.",
+    "image": "images/steph.jpg"
+  }
+}
